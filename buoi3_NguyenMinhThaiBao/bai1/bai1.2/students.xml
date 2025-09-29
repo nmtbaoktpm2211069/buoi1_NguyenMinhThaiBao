@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="SV001">
+        <name>Nguyễn Văn A</name>
+        <dob>2002-05-12</dob>
+        <major>Công nghệ thông tin</major>
+    </student>
+
+    <student id="SV002">
+        <name>Trần Thị B</name>
+        <dob>2001-11-20</dob>
+        <major>Kinh tế</major>
+    </student>
+
+    <student id="SV003">
+        <name>Lê Văn C</name>
+        <dob>2003-01-15</dob>
+        <major>Luật</major>
+    </student>
+</students>

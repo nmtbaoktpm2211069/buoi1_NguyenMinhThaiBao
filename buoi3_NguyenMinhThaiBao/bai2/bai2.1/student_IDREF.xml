@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+    <student id="S001" name="Nguyễn Văn A"/>
+    <student id="S002" name="Trần Thị B"/>
+
+    <class id="C01" name="Lập trình Web">
+        <enroll student_ref="S001"/>
+        <enroll student_ref="S002"/>
+    </class>
+</classes>

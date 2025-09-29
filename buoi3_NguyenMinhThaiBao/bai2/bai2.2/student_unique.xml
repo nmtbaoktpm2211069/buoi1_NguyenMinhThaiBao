@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>S001</id>
+        <name>Nguyễn Văn A</name>
+    </student>
+    <student>
+        <id>S002</id>
+        <name>Trần Thị B</name>
+    </student>
+</students>
