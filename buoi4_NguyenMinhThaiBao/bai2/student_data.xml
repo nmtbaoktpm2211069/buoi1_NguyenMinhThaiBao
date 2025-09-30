@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSSV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="student_data.xsd">
+    <KHOA>
+        <MaKhoa>K01</MaKhoa>
+        <TenKhoa>cntt</TenKhoa>
+    </KHOA>
+    <KHOA>
+        <MaKhoa>K02</MaKhoa>
+        <TenKhoa>kinhte</TenKhoa>
+    </KHOA>
+
+    <LOP>
+        <MaLop>L01</MaLop>
+        <TenLop>CNTT1</TenLop>
+        <MaKhoa>K01</MaKhoa>
+    </LOP>
+    <LOP>
+        <MaLop>L02</MaLop>
+        <TenLop>KinhTe1</TenLop>
+        <MaKhoa>K02</MaKhoa>
+    </LOP>
+
+    <SINHVIEN>
+        <MSSV>SV001</MSSV>
+        <HoTen>Nguyen Van A</HoTen>
+        <Email>a.sv001@univ.vn</Email>
+        <DiaChi>Can Tho</DiaChi>
+        <SoDT>0923456789</SoDT>
+        <MaLop>L01</MaLop>
+    </SINHVIEN>
+
+    <SINHVIEN>
+        <MSSV>SV002</MSSV>
+        <HoTen>Tran Thi B</HoTen>
+        <Email>b.sv002@univ.vn</Email>
+        <DiaChi>Ha Noi</DiaChi>
+        <SoDT>0987654321</SoDT>
+        <MaLop>L02</MaLop>
+    </SINHVIEN>
+</DSSV>
